@@ -7,8 +7,10 @@
 ![Local first](https://img.shields.io/badge/datos-100%25%20locales-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-<img width="1863" height="998" alt="图片" src="https://github.com/user-attachments/assets/8c70a997-5a68-480b-b783-767bb38eec83" />
-
+<img width="1912" height="1023" alt="图片" src="https://github.com/user-attachments/assets/35d4b543-9600-4089-88c3-76b98de925a2" />
+<img width="1917" height="991" alt="图片" src="https://github.com/user-attachments/assets/f2ca34a2-653a-47a1-9e74-dfff60c71484" />
+<img width="1917" height="1015" alt="图片" src="https://github.com/user-attachments/assets/6cb123ee-66c1-499a-990c-abb695486926" />
+<img width="1917" height="1032" alt="图片" src="https://github.com/user-attachments/assets/a350266e-d894-48a0-86b3-3e4995b3a531" />
 
 TUI Calendar no depende de ningún servidor ni de internet para funcionar. Todos tus eventos, calendarios y preferencias se guardan en tu propia máquina — nada se sube a la nube.
 
