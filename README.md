@@ -66,6 +66,7 @@ Elegí cualquier imagen de tus archivos como fondo de la aplicación, con la opc
 ## Capturas
 <img width="1917" height="1033" alt="图片" src="https://github.com/user-attachments/assets/86e73144-38a5-487e-abfe-35e8675c0e52" />
 <img width="1917" height="1033" alt="图片" src="https://github.com/user-attachments/assets/2ddaeecb-cd00-4483-a1f8-b3aad7a99ff0" />
+<img width="1917" height="1033" alt="图片" src="https://github.com/user-attachments/assets/e20e0268-7225-4ecb-b0c3-30ed38913df2" />
 <img width="1917" height="1033" alt="图片" src="https://github.com/user-attachments/assets/5d74833b-1370-411e-a91a-594dc16924e8" />
 
 
