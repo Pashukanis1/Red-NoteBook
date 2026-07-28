@@ -7,6 +7,9 @@
 ![Local first](https://img.shields.io/badge/datos-100%25%20locales-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+<img width="1863" height="998" alt="图片" src="https://github.com/user-attachments/assets/8c70a997-5a68-480b-b783-767bb38eec83" />
+
+
 TUI Calendar no depende de ningún servidor ni de internet para funcionar. Todos tus eventos, calendarios y preferencias se guardan en tu propia máquina — nada se sube a la nube.
 
 ---
