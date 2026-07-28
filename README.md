@@ -2,7 +2,7 @@
 
 > Un calendario de escritorio 100% local para Windows, con la estética de una interfaz de terminal (TUI) y la potencia de organización de Google Calendar.
 
-![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Made with Electron](https://img.shields.io/badge/made%20with-Electron-47848F) ![Local first](https://img.shields.io/badge/datos-100%25%20locales-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 <img width="1912" height="1023" alt="图片" src="https://github.com/user-attachments/assets/35d4b543-9600-4089-88c3-76b98de925a2" />
 <img width="1917" height="991" alt="图片" src="https://github.com/user-attachments/assets/f2ca34a2-653a-47a1-9e74-dfff60c71484" />
